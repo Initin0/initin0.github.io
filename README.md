@@ -1,6 +1,6 @@
 # ABOUT ME--
 Hey, i am **Nitin Kansal** an undergrad student at **Indian Institute Of Technology, Goa **
-i am a *good listener* and an expert in various coding languages such as **python,html,css,c++**
+i am a *good listener* and an expert in various coding languages such as **python,html,css,c++**![enter image description here](https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg)
 
 # Education
 |Academic Year |Standard |School Name|
