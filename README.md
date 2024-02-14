@@ -6,7 +6,7 @@ i am a *good listener* and an expert in various coding languages such as **pytho
 |Academic Year |Standard |School Name|
 |--------------|---------|-----------|
 | 2021          |10th   | 'La Foundation School'|
-|2023    | 12th     | 'Fortune Convent School'|  
+| 2023          | 12th     | 'Fortune Convent School'|  
 | 2027   | Btech  | 'Indian Institute Of Technology,Goa'|
 
 # Courses @IIT GOA
@@ -27,6 +27,6 @@ i am a *good listener* and an expert in various coding languages such as **pytho
 
 # HOBBIES,INTERESTS,EXTRACURRICULAR ACTIVITIES,PROJECTS
 
--**HOBBIES**: Playing Badminton,Cricket,Tennis
--**EXTRACURRICULAR ACTIVITIES**: Coding,Dancing,Photography
+- **HOBBIES**: Playing Badminton,Cricket,Tennis
+- **EXTRACURRICULAR ACTIVITIES**: Coding,Dancing,Photography
 - **PROJECTS**:
